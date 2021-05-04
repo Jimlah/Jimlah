@@ -1,4 +1,6 @@
 ### Hi there 👋
+![alt text](https://github.com/Jimlah/Jimlah/blob/main/Stunning%20Beach%20Safari%20Email%20Header.png "Profile Banner")
+
 
 <!--
 **Jimlah/Jimlah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
